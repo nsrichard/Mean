@@ -1,0 +1,4 @@
+Mean
+====
+
+Simple Mean example
